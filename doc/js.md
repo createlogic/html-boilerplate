@@ -1,5 +1,4 @@
-[HTML5 Boilerplate homepage](http://html5boilerplate.com) | [Documentation
-table of contents](TOC.md)
+[Boilerplate Introduction](intro.md)
 
 # The JavaScript
 

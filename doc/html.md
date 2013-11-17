@@ -1,7 +1,6 @@
-[HTML5 Boilerplate homepage](http://html5boilerplate.com) | [Documentation
-table of contents](TOC.md)
+[Boilerplate Introduction](intro.md)
 
-# The HTML
+# HTML
 
 ## The `no-js` class
 
@@ -72,9 +71,6 @@ The shortcut icons should be put in the root directory of your site. HTML5
 Boilerplate comes with a default set of icons (include favicon and one Apple
 Touch Icon) that you can use as a baseline to create your own.
 
-Please refer to the more detailed description in the [Extend section](extend.md)
-of these docs.
-
 ## Modernizr
 
 HTML5 Boilerplate uses a custom build of Modernizr.
@@ -100,17 +96,11 @@ The central part of the boilerplate template is pretty much empty. This is
 intentional, in order to make the boilerplate suitable for both web page and
 web app development.
 
-### BrowseHappy Promt
-
-The main content area of the boilerplate includes a prompt to install an up to
-date browser for users of IE 6/7. If you intended to support IE 6/7, then you
-should remove the snippet of code.
 
 ### Google CDN for jQuery
 
 The Google CDN version of the jQuery JavaScript library is referenced towards
-the bottom of the page using a protocol-independent path (read more about this
-in the [FAQ](faq.md)). A local fallback of jQuery is included for rare instances
+the bottom of the page. A local fallback of jQuery is included for rare instances
 when the CDN version might not be available, and to facilitate offline
 development.
 
