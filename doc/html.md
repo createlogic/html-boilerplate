@@ -62,7 +62,7 @@ Apple developer docs](http://j.mp/mobileviewport). HTML5 Boilerplate comes with
 a simple setup that strikes a good balance for general use cases.
 
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0">
 ```
 
 ## Favicons and Touch Icon
