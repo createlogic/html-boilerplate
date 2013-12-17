@@ -91,7 +91,7 @@ sub { bottom:-0.25em; }
 /** ---EMBEDDED CONTENT---
  * 1-Remove border when inside `a` element in IE 8/9. 
  * 2-Correct overflow displayed oddly in IE 9. */
-img { border: 0; }
+img { display:block; }
 svg:not(:root) { overflow:hidden; }
 
 /** ---FIGURES--- 
