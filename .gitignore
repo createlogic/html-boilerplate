@@ -3,3 +3,7 @@
 
 
 .project
+.gitattributes
+.gitignore
+build
+node_modules

@@ -21,8 +21,7 @@ This directory will contain the actual source with all the actual files without 
 **Directory Structure** General overview of the directory structure for `source` directory is as follows:
     
     ├── css
-    |	├── reset_normalize.css
-    |	├── base.css
+    |	├── normalize_custom.css
     |	├── main.css
     |	└── media.css
 	├── font

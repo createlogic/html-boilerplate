@@ -19,4 +19,4 @@ This boilerplate template is a port from the [HTML5 Boilerplate](https://github.
 
 
 ##Documentation
-The [documentation](doc/intro.md) about the boilerplate provides in depth details on the different components of the boilerplate and how they fit together.  
+The [documentation](docs/intro.md) about the boilerplate provides in depth details on the different components of the boilerplate and how they fit together.  
