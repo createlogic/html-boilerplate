@@ -30,9 +30,9 @@ module.exports = function(grunt) {
 			combine:{
 				files: {
 				'build/css/all.css':['source/css/normalize_custom.css',
-											 'source/css/main.css',
-											 'source/css/media.css'
-										 ]								  
+									 'source/css/main.css',
+									 'source/css/media.css'
+									]								  
 				}
 			}
 		},
@@ -54,7 +54,7 @@ module.exports = function(grunt) {
 			js: {
 				expand:true,
 				cwd:'source/js/',
-				src:'source/js/vendor/*.js',dest:'build/js/',
+				src:'vendor/*.js',dest:'build/js/',
 				flatten:true,
 				filter:'isFile'
 			}
