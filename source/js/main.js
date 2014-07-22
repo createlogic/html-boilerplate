@@ -20,7 +20,7 @@
 	Namespace = {
 		
 		
-		init:{
+		init:function(){
 			// All initializations for other methods, calls etc happen here
 		}
 		
